@@ -1,2 +1,6 @@
 Test file1
-conflict
+<<<<<<< HEAD
+changes by_Sree
+=======
+This is Liza making a change to this file.
+>>>>>>> origin/master
